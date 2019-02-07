@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Kerem San</title>
+	<meta charset="utf-8" />
+	<link href="style.css" rel="stylesheet" />
+	<!-- mobile adaptable?-->
+</head>
+
+<body>
+	<h1>Kerem San</h1>
+	<p id="img"><img src="IMG_5229.jpg" alt="Kerem San Photo" ></p>
+	<p><a href="bio.html">Click to view bio</a></p>
+	<p><a href="resume.html">Click to view resume</a></p>
+</body>
+
+</html>
